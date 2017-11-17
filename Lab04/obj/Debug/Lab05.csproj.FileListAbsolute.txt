@@ -1,0 +1,12 @@
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\KaMiKaZa\Desktop\Labs\Криптография\Lab05\Lab05\obj\Debug\Lab05.pdb
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\work\Downloads\Crypt_Labs_form_1_to_9.zip\Lab05\Lab05\obj\Debug\Lab05.pdb
